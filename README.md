@@ -1,3 +1,3 @@
 # Boxiting-cat
 
-practice git!!!
+스파링 싫어요
