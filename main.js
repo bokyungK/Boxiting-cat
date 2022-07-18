@@ -1,0 +1,1 @@
+const a = 'stash 사용하기';
